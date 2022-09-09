@@ -17,8 +17,12 @@
     <loc>https://Agnes2.github.io/projects/contributions/deploy-triggers/</loc>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://Agnes2.github.io/publications/alldaydevops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://Agnes2.github.io/publications/2022-sex/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/publications/2022-bayvsfreq/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/projects/contributions/shields-docker/</loc>
@@ -28,6 +32,33 @@
     <loc>https://Agnes2.github.io/projects/contributions/schema-org/</loc>
     <lastmod>2020-01-07T17:08:21+00:00</lastmod>
     <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/ad/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/eoad/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/mri/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/sex-differences/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/</loc>
+    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/adni/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/bayesian/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/frequentist/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/longitudinal-study/</loc>
+    <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/blog/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
@@ -42,9 +73,6 @@
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/docker/</loc>
@@ -91,18 +119,6 @@
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
   </url><url>
-    <loc>https://Agnes2.github.io/tags/agile/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/continuous-delivery/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/continuous-integration/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/culture/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://Agnes2.github.io/tags/apache/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url><url>
@@ -130,8 +146,6 @@
     <loc>https://Agnes2.github.io/tags/bash/shell/</loc>
   </url><url>
     <loc>https://Agnes2.github.io/tags/bitbucket/</loc>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/ci/cd-pipelines/</loc>
   </url><url>
     <loc>https://Agnes2.github.io/tags/confluence/</loc>
   </url><url>

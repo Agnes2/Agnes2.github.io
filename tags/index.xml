@@ -6,7 +6,79 @@
     <description>Recent content in Tags on Agnès Pérez-Millan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AD</title>
+      <link>https://Agnes2.github.io/tags/ad/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EOAD</title>
+      <link>https://Agnes2.github.io/tags/eoad/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/eoad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRI</title>
+      <link>https://Agnes2.github.io/tags/mri/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex Differences</title>
+      <link>https://Agnes2.github.io/tags/sex-differences/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/sex-differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADNI</title>
+      <link>https://Agnes2.github.io/tags/adni/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/adni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian</title>
+      <link>https://Agnes2.github.io/tags/bayesian/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequentist</title>
+      <link>https://Agnes2.github.io/tags/frequentist/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/frequentist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Study</title>
+      <link>https://Agnes2.github.io/tags/longitudinal-study/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/longitudinal-study/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>plot</title>
       <link>https://Agnes2.github.io/tags/plot/</link>
@@ -134,42 +206,6 @@
     </item>
     
     <item>
-      <title>agile</title>
-      <link>https://Agnes2.github.io/tags/agile/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/tags/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Delivery</title>
-      <link>https://Agnes2.github.io/tags/continuous-delivery/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/tags/continuous-delivery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Continuous Integration</title>
-      <link>https://Agnes2.github.io/tags/continuous-integration/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/tags/continuous-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Culture</title>
-      <link>https://Agnes2.github.io/tags/culture/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/tags/culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>apache</title>
       <link>https://Agnes2.github.io/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
@@ -247,15 +283,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Agnes2.github.io/tags/bitbucket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CI/CD pipelines</title>
-      <link>https://Agnes2.github.io/tags/ci/cd-pipelines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     

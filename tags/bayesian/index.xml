@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian on Agnès Pérez-Millan</title>
+    <link>https://Agnes2.github.io/tags/bayesian/</link>
+    <description>Recent content in Bayesian on Agnès Pérez-Millan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluating the performance of Bayesian and frequentist approaches for longitudinal modeling: application to Alzheimer’s disease</title>
+      <link>https://Agnes2.github.io/publications/2022-bayvsfreq/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2022-bayvsfreq/</guid>
+      <description>ABSTRACT
+Linear mixed effects (LME) modelling under both frequentist and Bayesian frameworks can be used to study longitudinal trajectories. We studied the performance of both frameworks on different dataset configurations using hippocampal volumes from longitudinal MRI data across groups—healthy controls (HC), mild cognitive impairment (MCI) and Alzheimer’s disease (AD) patients, including subjects that converted from MCI to AD. We started from a big database of 1250 subjects from the Alzheimer’s disease neuroimaging initiative (ADNI), and we created different reduced datasets simulating real-life situations using a random-removal permutation-based approach.</description>
+    </item>
+    
+  </channel>
+</rss>

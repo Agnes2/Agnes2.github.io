@@ -17,13 +17,24 @@
     </item>
     
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://Agnes2.github.io/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Sex differences in early-onset Alzheimer’s disease</title>
+      <link>https://Agnes2.github.io/publications/2022-sex/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://Agnes2.github.io/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
-Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+      <guid>https://Agnes2.github.io/publications/2022-sex/</guid>
+      <description>ABSTRACT
+INTRODUCTION: Sex is believed to drive heterogeneity in Alzheimer’s disease (AD), although evidence in early-onset AD (&amp;lt;65 years, EOAD) is scarce.
+METHODS: We included 62 EOAD patients and 44 healthy controls (HC) with cerebrospinal fluid (CSF) AD’s core biomarkers and neurofilament light chain levels, neuropsychological assessment, and 3T-MRI. We measured cortical thickness (CTh) and hippocampal subfield volumes (HpS) using Freesurfer. Adjusted linear models were used to analyze sex-differences and the relationship between atrophy and cognition.</description>
+    </item>
+    
+    <item>
+      <title>Evaluating the performance of Bayesian and frequentist approaches for longitudinal modeling: application to Alzheimer’s disease</title>
+      <link>https://Agnes2.github.io/publications/2022-bayvsfreq/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2022-bayvsfreq/</guid>
+      <description>ABSTRACT
+Linear mixed effects (LME) modelling under both frequentist and Bayesian frameworks can be used to study longitudinal trajectories. We studied the performance of both frameworks on different dataset configurations using hippocampal volumes from longitudinal MRI data across groups—healthy controls (HC), mild cognitive impairment (MCI) and Alzheimer’s disease (AD) patients, including subjects that converted from MCI to AD. We started from a big database of 1250 subjects from the Alzheimer’s disease neuroimaging initiative (ADNI), and we created different reduced datasets simulating real-life situations using a random-removal permutation-based approach.</description>
     </item>
     
     <item>
