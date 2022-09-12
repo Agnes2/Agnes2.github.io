@@ -8,13 +8,147 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/longitudinal-study/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Emerging Topics in Artificial Intelligence (ETAI) 2022</title>
+      <link>https://Agnes2.github.io/conferences/2022-etai/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/conferences/2022-etai/</guid>
+      <description>AUTHORS: Agnès Pérez-Millan, Laia Borrell,José Contador,Mircea Balasa, Albert Lladó, Raquel Sanchez-Valle, Roser Sala-Llonch.
+TITLE: Classification between Early Onset Alzheimer&amp;rsquo;s disease and frontotemporal dementia using a single neuroimaging feature.
+CONFERENCE: Emerging Topics in Artificial Intelligence (ETAI) 2022
+PLACE: San Diego, Unitated States of America
+DATES: August 21 - 25, 2022
+ABSTRACT:
+INTRODUCTION: Early Onset Alzheimer’s Disease (EOAD) and Frontotemporal Dementia (FTD) are common forms of early-onset dementia. Therefore, there is a need to establish accurate diagnosis and to obtain markers for disease tracking.</description>
+    </item>
+    
+    <item>
       <title>Evaluating the performance of Bayesian and frequentist approaches for longitudinal modeling: application to Alzheimer’s disease</title>
       <link>https://Agnes2.github.io/publications/2022-bayvsfreq/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Agnes2.github.io/publications/2022-bayvsfreq/</guid>
-      <description>ABSTRACT
-Linear mixed effects (LME) modelling under both frequentist and Bayesian frameworks can be used to study longitudinal trajectories. We studied the performance of both frameworks on different dataset configurations using hippocampal volumes from longitudinal MRI data across groups—healthy controls (HC), mild cognitive impairment (MCI) and Alzheimer’s disease (AD) patients, including subjects that converted from MCI to AD. We started from a big database of 1250 subjects from the Alzheimer’s disease neuroimaging initiative (ADNI), and we created different reduced datasets simulating real-life situations using a random-removal permutation-based approach.</description>
+      <description>Agnès Pérez‐Millan, José Contador, Raúl Tudela, Aida Niñerola-Baizán, Xavier Setoain, Albert Lladó, Raquel Sánchez-Valle, Roser Sala-Llonch, for the Alzheimer&amp;rsquo;s Disease Neuroimaging Initiative. Scientific Reports.
+ABSTRACT
+Linear mixed effects (LME) modelling under both frequentist and Bayesian frameworks can be used to study longitudinal trajectories. We studied the performance of both frameworks on different dataset configurations using hippocampal volumes from longitudinal MRI data across groups—healthy controls (HC), mild cognitive impairment (MCI) and Alzheimer’s disease (AD) patients, including subjects that converted from MCI to AD.</description>
+    </item>
+    
+    <item>
+      <title>OHBM 2022 ANNUAL MEETING</title>
+      <link>https://Agnes2.github.io/conferences/2022-ohbmapm/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/conferences/2022-ohbmapm/</guid>
+      <description>AUTHORS: Agnès Pérez-Millan, José Contador, Neus Falgàs, Núria Bargalló, Mircea Balasa, Albert Lladó, Raquel Sanchez-Valle, Roser Sala-Llonch.
+TITLE: Prognosis of Alzheimer’s Disease and Frontotemporal Dementia with a brain age model.
+CONFERENCE: OHBM 2022 ANNUAL MEETING
+PLACE: Glasgow, United Kingdom
+DATES: June 19 - 23, 2022
+ABSTRACT:
+Introduction: Alzheimer Disease (AD) and Frontotemporal Dementia (FTD) are common forms of dementia, characterized by progressive brain atrophy at variable rates along the age continuum.</description>
+    </item>
+    
+    <item>
+      <title>AD/PD 2022 International Conference on Alzheimer’s and Parkinson’s Diseases</title>
+      <link>https://Agnes2.github.io/conferences/2022-adpd/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/conferences/2022-adpd/</guid>
+      <description>AUTHORS: Agnès Pérez-Millan, José Contador, Neus Falgàs, Núria Bargalló, Mircea Balasa, Albert Lladó, Raquel Sanchez- Valle, Roser Sala-Llonch
+TITLE: Using age-matched templates to depict patterns of atrophy in AD and FTD.
+CONFERENCE: AD/PD 2022 International Conference on Alzheimer’s and Parkinson’s Diseases
+PLACE: Barcelona, Spain
+DATES: March 15 - 20, 2022
+ABSTRACT:
+OBJECTIVES: Alzheimer Disease (AD) and Frontotemporal Dementia (FTD) are characterized by progressive brain atrophy at variable rates along the age continuum.</description>
+    </item>
+    
+    <item>
+      <title>Jornada STEM: visibilitzem l’enginyeria</title>
+      <link>https://Agnes2.github.io/conferences/2022-youngitgirls/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/conferences/2022-youngitgirls/</guid>
+      <description>AUTHORS: Agnès Pérez-Millan, Laia Borrell, José Contador, Mircea Balasa, Albert Lladó, Raquel Sanchez-Valle, Roser Sala-Llonch.
+TITLE: Classificació entre la malaltia d’Alzheimer i la demència frontotemporal mitjançant una única característica de neuroimatge.
+CONFERENCE: Jornada STEM: visibilitzem l’enginyeria
+PLACE: Barcelona, Spain
+DATES: February 1, 2022</description>
+    </item>
+    
+    <item>
+      <title>Baseline MRI atrophy predicts 2-year cognitive outcomes in early-onset Alzheimer’s disease</title>
+      <link>https://Agnes2.github.io/publications/2021-baselineeoad/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2021-baselineeoad/</guid>
+      <description>José Contador, Agnès Pérez-Millan, Nuria Guillen, Adrià Tort-Merino, Mircea Balasa, Neus Falgàs, Jaume Olives, Magdalena Castellví, Sergi Borrego-Écija, Beatriz Bosch, Guadalupe Fernández-Villullas, Oscar Ramos-Campoy, Anna Antonell, Nuria Bargalló, Raquel Sanchez-Valle, Roser Sala-Llonch, Albert Lladó. Journal of Neurology.
+ABSTRACT
+Background: MRI atrophy predicts cognitive status in AD. However, this relationship has not been investigated in early-onset AD (EOAD, &amp;lt; 65 years) patients with a biomarker-based diagnosis.
+Methods: Forty eight EOAD (MMSE ≥ 15; A + T + N +) and forty two age-matched healthy controls (HC; A − T − N −) from a prospective cohort underwent full neuropsychological assessment, 3T-MRI scan and lumbar puncture at baseline.</description>
+    </item>
+    
+    <item>
+      <title>Statistical modelling of compromised longitudinal neuroimaging datasets: an application to alzheimer’s disease</title>
+      <link>https://Agnes2.github.io/publications/2021-bayvsfreq-etai/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2021-bayvsfreq-etai/</guid>
+      <description>Agnès Pérez Millan, José Contador, Aida Niñerola-Baizán, Raúl Tudela, Xavier Setoain, Albert Lladó, Raquel Sanchez-Valle, Roser Sala-Llonch, for the Alzheimer&amp;rsquo;s Disease Neuroimaging Initiative. Emerging Topics in Artificial Intelligence (ETAI) 2021.
+ABSTRACT
+Large datasets of longitudinal data, made available for the neuroimage community, offer the possibility to study trajectories of biomarkers throughout the course of the diseases. For such modelling, approaches emerging from both the frequentist and the Bayesian frameworks have been suggested.</description>
+    </item>
+    
+    <item>
+      <title>Emerging Topics in Artificial Intelligence (ETAI) 2021</title>
+      <link>https://Agnes2.github.io/conferences/2021-etai/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/conferences/2021-etai/</guid>
+      <description>AUTHORS: Agnès Pérez-Millan, José Contador, Aida Niñerola-Baizán, Raúl Tudela, Xavier Setoain, Albert Lladó, Raquel Sanchez-Valle, Roser Sala-Llonch, for the Alzheimer&amp;rsquo;s Disease Neuroimaging Initiative.
+TITLE: Statistical modelling of compromised longitudinal neuroimaging datasets: an application to alzheimer’s disease
+CONFERENCE: Emerging Topics in Artificial Intelligence (ETAI) 2021
+PLACE: Virtual Event
+DATES: August 1 - 5, 2021
+ABSTRACT:
+Large datasets of longitudinal data, made available for the neuroimage community, offer the possibility to study trajectories of biomarkers throughout the course of the diseases.</description>
+    </item>
+    
+    <item>
+      <title>Longitudinal brain atrophy and CSF biomarkers in early-onset Alzheimer’s disease</title>
+      <link>https://Agnes2.github.io/publications/2021-longitudinaleoad/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2021-longitudinaleoad/</guid>
+      <description>José Contador, Agnès Pérez-Millán, Adrià Tort-Merino, Mircea Balasa, Neus Falgàs, Jaume Olives, Magdalena Castellví, Sergi Borrego-Écija, Beatriz Bosch, Guadalupe Fernández-Villullas, Oscar Ramos-Campoy, Anna Antonell, Nuria Bargalló, Raquel Sanchez-Valle, Roser Sala-Llonch, Albert Lladó, Alzheimer&amp;rsquo;s Disease Neuroimaging Initiative. NeuroImage: Clinical.
+ABSTRACT
+There is evidence of longitudinal atrophy in posterior brain areas in early-onset Alzheimer’s disease (EOAD; aged &amp;lt; 65 years), but no studies have been conducted in an EOAD cohort with fluid biomarkers characterization.</description>
+    </item>
+    
+    <item>
+      <title>LXXII Reunión Anual de la Sociedad Española de Neurología</title>
+      <link>https://Agnes2.github.io/conferences/2020-senjc/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/conferences/2020-senjc/</guid>
+      <description>AUTHORS: José Contador, Roser Sala-Llonch, Agnès Pérez-Millan, Adrià Tort-Merino, Mircea Balasa, Neus Falgàs, Jaume Olives, Magdalena Castellví, Sergi Borrego-Écija, Beatriz Bosch, Guadalupe Fernández-Villullas, Oscar Ramos-Campoy, Anna Antonell, Raquel Sanchez-Valle i Albert Lladó.
+TITLE: Análisis transversal y longitudinal del patrón de atrofia en la enfermedad de Alzheimer de inicio precoz mediante RM-3T.
+CONFERENCE: LXXII Reunión Anual de la Sociedad Española de Neurología
+PLACE: Virtual Event
+DATES: November 23 - December 3, 2020</description>
+    </item>
+    
+    <item>
+      <title>XXIV Reunió Anual de la Societat Catalana de Neurologia</title>
+      <link>https://Agnes2.github.io/conferences/2020-sencjc/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/conferences/2020-sencjc/</guid>
+      <description>AUTHORS: José Contador, Roser Sala-Llonch, Agnès Pérez-Millan, Adrià Tort-Merino, Mircea Balasa, Neus Falgàs, Jaume Olives, Magdalena Castellví, Sergi Borrego-Écija, Beatriz Bosch, Guadalupe Fernández-Villullas, Oscar Ramos-Campoy, Anna Antonell, Raquel Sanchez-Valle y Albert Lladó.
+TITLE: Anàlisi transversal i longitudinal del patró d’atròfia en la malaltia d’Alzheimer d’inici precoç mitjançant RM-3T.
+CONFERENCE: XXIV Reunió Anual de la Societat Catalana de Neurologia
+PLACE: Virtual Event
+DATES: September 28 - October 2, 2020</description>
     </item>
     
   </channel>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SVR on Agnès Pérez-Millan</title>
+    <link>https://Agnes2.github.io/tags/svr/</link>
+    <description>Recent content in SVR on Agnès Pérez-Millan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/svr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OHBM 2022 ANNUAL MEETING</title>
+      <link>https://Agnes2.github.io/conferences/2022-ohbmapm/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/conferences/2022-ohbmapm/</guid>
+      <description>AUTHORS: Agnès Pérez-Millan, José Contador, Neus Falgàs, Núria Bargalló, Mircea Balasa, Albert Lladó, Raquel Sanchez-Valle, Roser Sala-Llonch.
+TITLE: Prognosis of Alzheimer’s Disease and Frontotemporal Dementia with a brain age model.
+CONFERENCE: OHBM 2022 ANNUAL MEETING
+PLACE: Glasgow, United Kingdom
+DATES: June 19 - 23, 2022
+ABSTRACT:
+Introduction: Alzheimer Disease (AD) and Frontotemporal Dementia (FTD) are common forms of dementia, characterized by progressive brain atrophy at variable rates along the age continuum.</description>
+    </item>
+    
+    <item>
+      <title>AD/PD 2022 International Conference on Alzheimer’s and Parkinson’s Diseases</title>
+      <link>https://Agnes2.github.io/conferences/2022-adpd/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/conferences/2022-adpd/</guid>
+      <description>AUTHORS: Agnès Pérez-Millan, José Contador, Neus Falgàs, Núria Bargalló, Mircea Balasa, Albert Lladó, Raquel Sanchez- Valle, Roser Sala-Llonch
+TITLE: Using age-matched templates to depict patterns of atrophy in AD and FTD.
+CONFERENCE: AD/PD 2022 International Conference on Alzheimer’s and Parkinson’s Diseases
+PLACE: Barcelona, Spain
+DATES: March 15 - 20, 2022
+ABSTRACT:
+OBJECTIVES: Alzheimer Disease (AD) and Frontotemporal Dementia (FTD) are characterized by progressive brain atrophy at variable rates along the age continuum.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,8 +13,35 @@
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Agnes2.github.io/publications/2022-bayvsfreq/</guid>
-      <description>ABSTRACT
-Linear mixed effects (LME) modelling under both frequentist and Bayesian frameworks can be used to study longitudinal trajectories. We studied the performance of both frameworks on different dataset configurations using hippocampal volumes from longitudinal MRI data across groups—healthy controls (HC), mild cognitive impairment (MCI) and Alzheimer’s disease (AD) patients, including subjects that converted from MCI to AD. We started from a big database of 1250 subjects from the Alzheimer’s disease neuroimaging initiative (ADNI), and we created different reduced datasets simulating real-life situations using a random-removal permutation-based approach.</description>
+      <description>Agnès Pérez‐Millan, José Contador, Raúl Tudela, Aida Niñerola-Baizán, Xavier Setoain, Albert Lladó, Raquel Sánchez-Valle, Roser Sala-Llonch, for the Alzheimer&amp;rsquo;s Disease Neuroimaging Initiative. Scientific Reports.
+ABSTRACT
+Linear mixed effects (LME) modelling under both frequentist and Bayesian frameworks can be used to study longitudinal trajectories. We studied the performance of both frameworks on different dataset configurations using hippocampal volumes from longitudinal MRI data across groups—healthy controls (HC), mild cognitive impairment (MCI) and Alzheimer’s disease (AD) patients, including subjects that converted from MCI to AD.</description>
+    </item>
+    
+    <item>
+      <title>Statistical modelling of compromised longitudinal neuroimaging datasets: an application to alzheimer’s disease</title>
+      <link>https://Agnes2.github.io/publications/2021-bayvsfreq-etai/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2021-bayvsfreq-etai/</guid>
+      <description>Agnès Pérez Millan, José Contador, Aida Niñerola-Baizán, Raúl Tudela, Xavier Setoain, Albert Lladó, Raquel Sanchez-Valle, Roser Sala-Llonch, for the Alzheimer&amp;rsquo;s Disease Neuroimaging Initiative. Emerging Topics in Artificial Intelligence (ETAI) 2021.
+ABSTRACT
+Large datasets of longitudinal data, made available for the neuroimage community, offer the possibility to study trajectories of biomarkers throughout the course of the diseases. For such modelling, approaches emerging from both the frequentist and the Bayesian frameworks have been suggested.</description>
+    </item>
+    
+    <item>
+      <title>Emerging Topics in Artificial Intelligence (ETAI) 2021</title>
+      <link>https://Agnes2.github.io/conferences/2021-etai/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/conferences/2021-etai/</guid>
+      <description>AUTHORS: Agnès Pérez-Millan, José Contador, Aida Niñerola-Baizán, Raúl Tudela, Xavier Setoain, Albert Lladó, Raquel Sanchez-Valle, Roser Sala-Llonch, for the Alzheimer&amp;rsquo;s Disease Neuroimaging Initiative.
+TITLE: Statistical modelling of compromised longitudinal neuroimaging datasets: an application to alzheimer’s disease
+CONFERENCE: Emerging Topics in Artificial Intelligence (ETAI) 2021
+PLACE: Virtual Event
+DATES: August 1 - 5, 2021
+ABSTRACT:
+Large datasets of longitudinal data, made available for the neuroimage community, offer the possibility to study trajectories of biomarkers throughout the course of the diseases.</description>
     </item>
     
   </channel>

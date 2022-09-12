@@ -13,9 +13,10 @@
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Agnes2.github.io/publications/2022-sex/</guid>
-      <description>ABSTRACT
+      <description>José Contador*, Agnès Pérez-Millan*, Nuria Guillen, Jordi Sarto, Adrià Tort-Merino, Mircea Balasa, Neus Falgàs, Magdalena Castellví, Sergi Borrego-Écija, Jordi Juncà-Parella, Beatriz Bosch, Guadalupe Fernández-Villullas, Oscar Ramos-Campoy, Anna Antonell, Nuria Bargalló, Raquel Sanchez-Valle, Roser Sala Llonch, Albert Lladó (* equivalent contribution). European Journal of Neurology.
+ABSTRACT
 INTRODUCTION: Sex is believed to drive heterogeneity in Alzheimer’s disease (AD), although evidence in early-onset AD (&amp;lt;65 years, EOAD) is scarce.
-METHODS: We included 62 EOAD patients and 44 healthy controls (HC) with cerebrospinal fluid (CSF) AD’s core biomarkers and neurofilament light chain levels, neuropsychological assessment, and 3T-MRI. We measured cortical thickness (CTh) and hippocampal subfield volumes (HpS) using Freesurfer. Adjusted linear models were used to analyze sex-differences and the relationship between atrophy and cognition.</description>
+METHODS: We included 62 EOAD patients and 44 healthy controls (HC) with cerebrospinal fluid (CSF) AD’s core biomarkers and neurofilament light chain levels, neuropsychological assessment, and 3T-MRI.</description>
     </item>
     
     <item>
@@ -24,8 +25,65 @@ METHODS: We included 62 EOAD patients and 44 healthy controls (HC) with cerebros
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Agnes2.github.io/publications/2022-bayvsfreq/</guid>
-      <description>ABSTRACT
-Linear mixed effects (LME) modelling under both frequentist and Bayesian frameworks can be used to study longitudinal trajectories. We studied the performance of both frameworks on different dataset configurations using hippocampal volumes from longitudinal MRI data across groups—healthy controls (HC), mild cognitive impairment (MCI) and Alzheimer’s disease (AD) patients, including subjects that converted from MCI to AD. We started from a big database of 1250 subjects from the Alzheimer’s disease neuroimaging initiative (ADNI), and we created different reduced datasets simulating real-life situations using a random-removal permutation-based approach.</description>
+      <description>Agnès Pérez‐Millan, José Contador, Raúl Tudela, Aida Niñerola-Baizán, Xavier Setoain, Albert Lladó, Raquel Sánchez-Valle, Roser Sala-Llonch, for the Alzheimer&amp;rsquo;s Disease Neuroimaging Initiative. Scientific Reports.
+ABSTRACT
+Linear mixed effects (LME) modelling under both frequentist and Bayesian frameworks can be used to study longitudinal trajectories. We studied the performance of both frameworks on different dataset configurations using hippocampal volumes from longitudinal MRI data across groups—healthy controls (HC), mild cognitive impairment (MCI) and Alzheimer’s disease (AD) patients, including subjects that converted from MCI to AD.</description>
+    </item>
+    
+    <item>
+      <title>Differential Gene Expression in Sporadic and Genetic Forms of Alzheimer’s Disease and Frontotemporal Dementia in Brain Tissue and Lymphoblastoid Cell Lines</title>
+      <link>https://Agnes2.github.io/publications/2022-gens/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2022-gens/</guid>
+      <description>Oscar Ramos-Campoy, Albert Lladó, Beatriz Bosch, Mireia Ferrer, Agnès Pérez-Millan, Miguel Vergara, Laura Molina-Porcel, Laura Fort-Aznar, Ricardo Gonzalo, Fermín Moreno-Izco, Guadalupe Fernandez-Villullas, Mircea Balasa, Raquel Sánchez-Valle, Anna Antonell. Molecular Neurobiology.
+ABSTRACT
+Sporadic early-onset Alzheimer’s disease (EOAD) and autosomal dominant Alzheimer’s disease (ADAD) provide the opportunity to investigate the physiopathological mechanisms in the absence of aging, present in late-onset forms. Frontotemporal dementia (FTD) causes early-onset dementia associated to tau or TDP43 protein deposits.</description>
+    </item>
+    
+    <item>
+      <title>Baseline MRI atrophy predicts 2-year cognitive outcomes in early-onset Alzheimer’s disease</title>
+      <link>https://Agnes2.github.io/publications/2021-baselineeoad/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2021-baselineeoad/</guid>
+      <description>José Contador, Agnès Pérez-Millan, Nuria Guillen, Adrià Tort-Merino, Mircea Balasa, Neus Falgàs, Jaume Olives, Magdalena Castellví, Sergi Borrego-Écija, Beatriz Bosch, Guadalupe Fernández-Villullas, Oscar Ramos-Campoy, Anna Antonell, Nuria Bargalló, Raquel Sanchez-Valle, Roser Sala-Llonch, Albert Lladó. Journal of Neurology.
+ABSTRACT
+Background: MRI atrophy predicts cognitive status in AD. However, this relationship has not been investigated in early-onset AD (EOAD, &amp;lt; 65 years) patients with a biomarker-based diagnosis.
+Methods: Forty eight EOAD (MMSE ≥ 15; A + T + N +) and forty two age-matched healthy controls (HC; A − T − N −) from a prospective cohort underwent full neuropsychological assessment, 3T-MRI scan and lumbar puncture at baseline.</description>
+    </item>
+    
+    <item>
+      <title>Statistical modelling of compromised longitudinal neuroimaging datasets: an application to alzheimer’s disease</title>
+      <link>https://Agnes2.github.io/publications/2021-bayvsfreq-etai/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2021-bayvsfreq-etai/</guid>
+      <description>Agnès Pérez Millan, José Contador, Aida Niñerola-Baizán, Raúl Tudela, Xavier Setoain, Albert Lladó, Raquel Sanchez-Valle, Roser Sala-Llonch, for the Alzheimer&amp;rsquo;s Disease Neuroimaging Initiative. Emerging Topics in Artificial Intelligence (ETAI) 2021.
+ABSTRACT
+Large datasets of longitudinal data, made available for the neuroimage community, offer the possibility to study trajectories of biomarkers throughout the course of the diseases. For such modelling, approaches emerging from both the frequentist and the Bayesian frameworks have been suggested.</description>
+    </item>
+    
+    <item>
+      <title>Longitudinal brain atrophy and CSF biomarkers in early-onset Alzheimer’s disease</title>
+      <link>https://Agnes2.github.io/publications/2021-longitudinaleoad/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2021-longitudinaleoad/</guid>
+      <description>José Contador, Agnès Pérez-Millán, Adrià Tort-Merino, Mircea Balasa, Neus Falgàs, Jaume Olives, Magdalena Castellví, Sergi Borrego-Écija, Beatriz Bosch, Guadalupe Fernández-Villullas, Oscar Ramos-Campoy, Anna Antonell, Nuria Bargalló, Raquel Sanchez-Valle, Roser Sala-Llonch, Albert Lladó, Alzheimer&amp;rsquo;s Disease Neuroimaging Initiative. NeuroImage: Clinical.
+ABSTRACT
+There is evidence of longitudinal atrophy in posterior brain areas in early-onset Alzheimer’s disease (EOAD; aged &amp;lt; 65 years), but no studies have been conducted in an EOAD cohort with fluid biomarkers characterization.</description>
+    </item>
+    
+    <item>
+      <title>Contribution of CSF biomarkers to early-onset Alzheimer’s disease and frontotemporal dementia neuroimaging signatures</title>
+      <link>https://Agnes2.github.io/publications/2020-ohbm/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2020-ohbm/</guid>
+      <description>Neus Falgàs, Mariona Ruiz‐Peris, Agnès Pérez‐Millan, Roser Sala‐Llonch, Anna Antonell, Mircea Balasa, Sergi Borrego‐Écija, Oscar Ramos‐Campoy, Josep Maria Augé, Magdalena Castellví, Adrià Tort‐Merino, Jaume Olives, Guadalupe Fernández‐Villullas, Kaj Blennow, Henrik Zetterberg, Núria Bargalló, Albert Lladó, Raquel Sánchez‐Valle. Human Brain Mapping.
+ABSTRACT
+Prior studies have described distinct patterns of brain gray matter and white matter alterations in Alzheimer&amp;rsquo;s disease (AD) and frontotemporal lobar degeneration (FTLD), as well as differences in their cerebrospinal fluid (CSF) biomarkers profiles.</description>
     </item>
     
   </channel>
