@@ -6,31 +6,103 @@
     <description>Recent content in Tags on Agnès Pérez-Millan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AD</title>
       <link>https://Agnes2.github.io/tags/ad/</link>
-      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Agnes2.github.io/tags/ad/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>APOE4</title>
+      <link>https://Agnes2.github.io/tags/apoe4/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/apoe4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EOAD</title>
       <link>https://Agnes2.github.io/tags/eoad/</link>
-      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Agnes2.github.io/tags/eoad/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>LOAD</title>
+      <link>https://Agnes2.github.io/tags/load/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/load/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MRI</title>
       <link>https://Agnes2.github.io/tags/mri/</link>
-      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Agnes2.github.io/tags/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C9orf72</title>
+      <link>https://Agnes2.github.io/tags/c9orf72/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/c9orf72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FTD</title>
+      <link>https://Agnes2.github.io/tags/ftd/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/ftd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GENFI</title>
+      <link>https://Agnes2.github.io/tags/genfi/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/genfi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Study</title>
+      <link>https://Agnes2.github.io/tags/longitudinal-study/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/longitudinal-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://Agnes2.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVM</title>
+      <link>https://Agnes2.github.io/tags/svm/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/tags/svm/</guid>
       <description></description>
     </item>
     
@@ -71,42 +143,6 @@
     </item>
     
     <item>
-      <title>FTD</title>
-      <link>https://Agnes2.github.io/tags/ftd/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/tags/ftd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longitudinal Study</title>
-      <link>https://Agnes2.github.io/tags/longitudinal-study/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/tags/longitudinal-study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://Agnes2.github.io/tags/machine-learning/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SVM</title>
-      <link>https://Agnes2.github.io/tags/svm/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/tags/svm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Differential Gene Expression</title>
       <link>https://Agnes2.github.io/tags/differential-gene-expression/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
@@ -121,15 +157,6 @@
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Agnes2.github.io/tags/age-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LOAD</title>
-      <link>https://Agnes2.github.io/tags/load/</link>
-      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/tags/load/</guid>
       <description></description>
     </item>
     
