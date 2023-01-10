@@ -6,7 +6,18 @@
     <description>Recent content in SVM on Agnès Pérez-Millan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/svm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/svm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classification between early onset Alzheimer´s disease and frontotemporal dementia using a single neuroimaging feature</title>
+      <link>https://Agnes2.github.io/publications/2022-etaiml/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2022-etaiml/</guid>
+      <description>Agnès Pérez Millan, Laia Borrell, José Contador, Mircea Balasa, Albert Lladó, Raquel Sanchez-Valle, Roser Sala-Llonch. Emerging Topics in Artificial Intelligence (ETAI) 2022.
+ABSTRACT
+INTRODUCTION: Early Onset Alzheimer’s Disease (EOAD, &amp;lt;65 years) and Frontotemporal Dementia (FTD) are common forms of early-onset dementia. Therefore, there is a need to establish accurate diagnosis and to obtain markers for disease tracking. We combined supervised and unsupervised machine learning (ML) to discriminate between EOAD and FTD patients.</description>
+    </item>
+    
     <item>
       <title>Emerging Topics in Artificial Intelligence (ETAI) 2022</title>
       <link>https://Agnes2.github.io/conferences/2022-etai/</link>
