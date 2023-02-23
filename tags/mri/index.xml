@@ -6,7 +6,18 @@
     <description>Recent content in MRI on Agnès Pérez-Millan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/mri/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/mri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classifying Alzheimer’s disease and frontotemporal dementia using machine learning with cross‐sectional and longitudinal magnetic resonance imaging data</title>
+      <link>https://Agnes2.github.io/publications/2023-mllong/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2023-mllong/</guid>
+      <description>Agnès Pérez‐Millan, José Contador, Jordi Juncà‐Parella, Beatriz Bosch, Laia Borrell, Adrià Tort‐Merino, Neus Falgàs, Sergi Borrego‐Écija, Nuria Bargalló, Lorena Rami, Mircea Balasa, Albert Lladó, Raquel Sánchez‐Valle, Roser Sala‐Llonch. Human Brain Mapping.
+ABSTRACT
+Alzheimer&amp;rsquo;s disease (AD) and frontotemporal dementia (FTD) are common causes of dementia with partly overlapping, symptoms and brain signatures. There is a need to establish an accurate diagnosis and to obtain markers for disease tracking. We combined unsupervised and supervised machine learning to discriminate between AD and FTD using brain magnetic resonance imaging (MRI).</description>
+    </item>
+    
     <item>
       <title>The APOE4 effect: structural brain differences in Alzheimer’s disease according to the age at symptom onset</title>
       <link>https://Agnes2.github.io/publications/2022-apope/</link>
@@ -25,7 +36,7 @@ Method: Eighty-seven cerebrospinal fluid (CSF) biomarker-confirmed AD patients w
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Agnes2.github.io/publications/2022-c9/</guid>
-      <description>Agnès Pérez-Millan, Sergi Borrego-Écija*, John C van Swieten, Lize Jiskoot, Fermin Moreno, Robert Laforce, Caroline Graff, Mario Masellis, Maria Carmela Tartaglia, James B Rowe, Barbara Borroni, Elizabeth Finger, Matthis Synofzik, Daniela Galimberti, Rik Vandenberghe, Alexandre de Mendonça, Chris R Butler, Alexander Gerhard, Simon Ducharme, Isabelle Le Ber, Isabel Santana, Florence Pasquier, Johannes Levin, Markus Otto, Sandro Sorbi, Pietro Tiraboschi, Harro Seelaar, Tobias Langheinrich, Jonathan D Rohrer, Roser Sala-Llonch, Raquel Sánchez-Valle (* equivalent contribution).</description>
+      <description>Agnès Pérez-Millan*, Sergi Borrego-Écija*, John C van Swieten, Lize Jiskoot, Fermin Moreno, Robert Laforce, Caroline Graff, Mario Masellis, Maria Carmela Tartaglia, James B Rowe, Barbara Borroni, Elizabeth Finger, Matthis Synofzik, Daniela Galimberti, Rik Vandenberghe, Alexandre de Mendonça, Chris R Butler, Alexander Gerhard, Simon Ducharme, Isabelle Le Ber, Isabel Santana, Florence Pasquier, Johannes Levin, Markus Otto, Sandro Sorbi, Pietro Tiraboschi, Harro Seelaar, Tobias Langheinrich, Jonathan D Rohrer, Roser Sala-Llonch, Raquel Sánchez-Valle (* equivalent contribution).</description>
     </item>
     
     <item>
