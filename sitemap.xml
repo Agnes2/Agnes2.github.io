@@ -25,8 +25,52 @@
     <loc>https://Agnes2.github.io/projects/contributions/deploy-triggers/</loc>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://Agnes2.github.io/news/2023-ohbm/</loc>
+    <lastmod>2023-07-23T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/conferences/2023-ohbm/</loc>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/conferences/2023-aaiccovid-apm/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/conferences/2023-aaiccovid-ng/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/conferences/2023-aaicml/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/conferences/2023-aaicsb/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/news/2023-podcast4/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/news/2023-podcast3/</loc>
+    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/news/2023-phdidibapsday/</loc>
+    <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/news/2023-neurobrews/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://Agnes2.github.io/news/2023-podcast2/</loc>
     <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/news/2023-biomarkers/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/news/2023-articlesexnew/</loc>
@@ -59,6 +103,10 @@
   </url><url>
     <loc>https://Agnes2.github.io/publications/2023-mllong/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/conferences/2022-alsmnd/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/publications/2022-apope/</loc>
@@ -209,29 +257,50 @@
     <lastmod>2020-01-07T17:08:21+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://Agnes2.github.io/tags/ad/</loc>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/csf/</loc>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/ftd/</loc>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/machine-learning/</loc>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/mri/</loc>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/svr/</loc>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/</loc>
+    <lastmod>2023-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/covid/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/cytokines/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/longitudinal-study/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://Agnes2.github.io/tags/neuropsychology/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/plasma/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/scd/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Agnes2.github.io/tags/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <loc>https://Agnes2.github.io/tags/c9orf72/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Agnes2.github.io/tags/ad/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/ftd/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/longitudinal-study/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/machine-learning/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/mri/</loc>
-    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <loc>https://Agnes2.github.io/tags/genfi/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/apoe4/</loc>
     <lastmod>2022-12-04T00:00:00+00:00</lastmod>
@@ -241,12 +310,6 @@
   </url><url>
     <loc>https://Agnes2.github.io/tags/load/</loc>
     <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/c9orf72/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/genfi/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/svm/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
@@ -267,9 +330,6 @@
     <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/age-model/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/svr/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/blog/</loc>
