@@ -25,6 +25,22 @@
     <loc>https://Agnes2.github.io/projects/contributions/deploy-triggers/</loc>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://Agnes2.github.io/news/2023-podcast5/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/news/2023-phdsubmitted/</loc>
+    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/news/2023-llibrenf/</loc>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/news/2023-ondacero/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://Agnes2.github.io/news/2023-ohbm/</loc>
     <lastmod>2023-07-23T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
@@ -85,6 +101,10 @@
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://Agnes2.github.io/publications/2022-c9/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://Agnes2.github.io/news/2023-sopadeparticules/</loc>
     <lastmod>2023-02-22T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
@@ -95,6 +115,10 @@
   </url><url>
     <loc>https://Agnes2.github.io/news/2023-lalocal/</loc>
     <lastmod>2023-02-10T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/publications/2022-apope/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/publications/2023-neuropsico/</loc>
@@ -109,16 +133,16 @@
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://Agnes2.github.io/publications/2022-apope/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://Agnes2.github.io/publications/2022-c9/</loc>
-    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+    <loc>https://Agnes2.github.io/publications/2022-sex/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/publications/2022-etaiml/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/publications/2022-gens/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/news/2022-biblioad/</loc>
@@ -127,10 +151,6 @@
   </url><url>
     <loc>https://Agnes2.github.io/news/2022-lalocal/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://Agnes2.github.io/publications/2022-sex/</loc>
-    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/conferences/2022-etai/</loc>
@@ -143,10 +163,6 @@
   </url><url>
     <loc>https://Agnes2.github.io/news/2022-etai/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://Agnes2.github.io/publications/2022-gens/</loc>
-    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/news/2022-idibapsvideo/</loc>
@@ -167,6 +183,10 @@
   </url><url>
     <loc>https://Agnes2.github.io/news/2022-ohbm/</loc>
     <lastmod>2022-06-19T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/publications/2021-baselineeoad/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/conferences/2022-adpdjc/</loc>
@@ -201,12 +221,12 @@
     <lastmod>2021-12-16T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://Agnes2.github.io/publications/2021-baselineeoad/</loc>
-    <lastmod>2021-10-19T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://Agnes2.github.io/publications/2021-bayvsfreq-etai/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/publications/2021-longitudinaleoad/</loc>
+    <lastmod>2021-08-30T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/conferences/2021-etai/</loc>
@@ -219,10 +239,6 @@
   </url><url>
     <loc>https://Agnes2.github.io/conferences/2021-isrm/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://Agnes2.github.io/publications/2021-longitudinaleoad/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/conferences/2020-senjc/</loc>
@@ -293,29 +309,32 @@
     <loc>https://Agnes2.github.io/tags/plasma/</loc>
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://Agnes2.github.io/tags/c9orf72/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/genfi/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/apoe4/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/eoad/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/load/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://Agnes2.github.io/tags/scd/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Agnes2.github.io/tags/c9orf72/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/genfi/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/apoe4/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/eoad/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/load/</loc>
-    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
+    <loc>https://Agnes2.github.io/tags/sex-differences/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/svm/</loc>
     <lastmod>2022-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Agnes2.github.io/tags/sex-differences/</loc>
-    <lastmod>2022-08-25T00:00:00+00:00</lastmod>
+    <loc>https://Agnes2.github.io/tags/differential-gene-expression/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/adni/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
@@ -325,9 +344,6 @@
   </url><url>
     <loc>https://Agnes2.github.io/tags/frequentist/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/differential-gene-expression/</loc>
-    <lastmod>2022-08-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/age-model/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
