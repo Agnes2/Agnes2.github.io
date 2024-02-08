@@ -1,0 +1,49 @@
+[
+      {
+        "school":"University of Barcelona",
+        "degree":"PhD in Biomedicine, Cum Laude",
+        "range":"2020 - 2023"
+    },
+
+    {
+        "school":"Inria",
+        "degree":"Visiting PhD Student at MIND Team",
+        "range":"October – November 2022"
+    },
+
+
+    {
+        "school":"Medical University of Innsbruck",
+        "degree":"Eurolife Pilot School course: Data Ethics - Ethical considerations in interpretation and handling of Biomedical Big Data",
+        "range":"April 2021"
+    },
+
+
+
+    {
+        "school":"University of Göttingen",
+        "degree":"Erasmus+ Strategic Partnership grant towards DATAETHICS – Changing Landscapes in the Health and Life Sciences: Ethical Challenges of Biomedical Big Data (BBD)",
+        "range":"February – March 2020"
+    },
+
+
+    {
+        "school":"Open University of Catalonia - University of Barcelona",
+        "degree":"Master's Degree in Bioinforamatics and Biostatistics (60 ECTS)",
+        "range":"2019 - 2020"
+    },
+
+
+    {
+        "school":"University of Barcelona",
+        "degree":"Bachelor's Degree in Physics (240 ECTS)",
+        "range":"2014 - 2019"
+    },
+
+
+    {
+        "school":"University of Barcelona - University Autònoma of Barcelona - University of Uppsala",
+        "degree":"Erasmus+ - Diversity in the Cultures of Physics Summer School",
+        "range":"June - August  2018"
+    }
+]
