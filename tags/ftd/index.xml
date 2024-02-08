@@ -6,7 +6,40 @@
     <description>Recent content in FTD on Agnès Pérez-Millan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/ftd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/ftd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impact of demographics and comorbid conditions on plasma biomarkers concentrations and their diagnostic accuracy in a memory clinic cohort</title>
+      <link>https://Agnes2.github.io/publications/2023-plasma/</link>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2023-plasma/</guid>
+      <description>Jordi Sarto, Diana Esteller-Gauxax, Adrià Tort-Merino, Núria Guillén, Agnès Pérez‐Millan, Neus Falgàs, Sergi Borrego-Écija, Guadalupe Fernández-Villullas, Beatriz Bosch, Jordi Juncà-Parella, Anna Antonell, Laura Naranjo, Raquel Ruiz-García, Josep María Augé, Raquel Sánchez-Valle, Albert Lladó, Mircea Balasa. Journal of Neurology.
+ABSTRACT
+Plasma biomarkers have emerged as promising tools for identifying amyloid beta (Aβ) pathology. Before implementation in routine clinical practice, confounding factors modifying their concentration beyond neurodegenerative diseases should be identified. We studied the association of a comprehensive list of demographics, comorbidities, medication and laboratory parameters with plasma p-tau181, glial fibrillary acidic protein (GFAP) and neurofilament light chain (NfL) on a prospective memory clinic cohort and studied their impact on diagnostic accuracy for discriminating CSF/amyloid PET-defined Aβ status.</description>
+    </item>
+    
+    <item>
+      <title>Galectin-3 is upregulated in frontotemporal dementia patients with subtype specificity</title>
+      <link>https://Agnes2.github.io/publications/2023-gal3/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2023-gal3/</guid>
+      <description>Sergi Borrego-Écija*, Agnès Pérez-Millan*, Anna Antonell, Laura Fort-Aznar, Elif Kaya-Tilki, Alberto León-Halcón, Albert Lladó, Laura Molina-Porcel, Mircea Balasa, Jordi Juncà-Parella, Javier Vitorica, Jose Luis Venero, Tomas Deierborg, Antonio Boza-Serrano, Raquel Sánchez-Valle. (* equivalent contribution). Alzheimer&amp;rsquo;s &amp;amp; Dementia.
+ABSTRACT
+INTRODUCTION Neuroinflammation is a major contributor to the progression of frontotemporal dementia (FTD). Galectin-3 (Gal-3), a microglial activation regulator, holds promise as a therapeutic target and potential biomarker. Our study aimed to investigate Gal-3 levels in patients with FTD and assess its diagnostic potential.</description>
+    </item>
+    
+    <item>
+      <title>Cortical thickness modeling and variability in Alzheimer’s disease and frontotemporal dementia</title>
+      <link>https://Agnes2.github.io/publications/2023-cth/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2023-cth/</guid>
+      <description>Agnès Pérez‐Millan, Sergi Borrego-Écija, Neus Falgàs, Jordi Juncà-Parella, Beatriz Bosch, Adrià Tort-Merino, Anna Antonell, Nuria Bargalló, Lorena Rami, Mircea Balasa, Albert Lladó, Roser Sala-Llonch, Raquel Sánchez-Valle. Journal of Neurology.
+ABSTRACT
+Background and objective Alzheimer’s disease (AD) and frontotemporal dementia (FTD) show different patterns of cortical thickness (CTh) loss compared with healthy controls (HC), even though there is relevant heterogeneity between individuals suffering from each of these diseases. Thus, we developed CTh models to study individual variability in AD, FTD, and HC.</description>
+    </item>
+    
     <item>
       <title>OHBM 2023 ANNUAL MEETING</title>
       <link>https://Agnes2.github.io/conferences/2023-ohbm/</link>
@@ -48,6 +81,15 @@ DATES: July 16 - 20, 2023</description>
     </item>
     
     <item>
+      <title>Loss of brainstem white matter predicts onset and motor neuron symptoms in C9orf72 expansion carriers: a GENFI study</title>
+      <link>https://Agnes2.github.io/publications/2022-c9/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2022-c9/</guid>
+      <description>Agnès Pérez-Millan*, Sergi Borrego-Écija*, John C van Swieten, Lize Jiskoot, Fermin Moreno, Robert Laforce, Caroline Graff, Mario Masellis, Maria Carmela Tartaglia, James B Rowe, Barbara Borroni, Elizabeth Finger, Matthis Synofzik, Daniela Galimberti, Rik Vandenberghe, Alexandre de Mendonça, Chris R Butler, Alexander Gerhard, Simon Ducharme, Isabelle Le Ber, Isabel Santana, Florence Pasquier, Johannes Levin, Markus Otto, Sandro Sorbi, Pietro Tiraboschi, Harro Seelaar, Tobias Langheinrich, Jonathan D Rohrer, Roser Sala-Llonch, Raquel Sánchez-Valle &amp;amp; The Genetic FTD Initiative, GENFI (* equivalent contribution).</description>
+    </item>
+    
+    <item>
       <title>Classifying Alzheimer’s disease and frontotemporal dementia using machine learning with cross‐sectional and longitudinal magnetic resonance imaging data</title>
       <link>https://Agnes2.github.io/publications/2023-mllong/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
@@ -68,15 +110,6 @@ Alzheimer&amp;rsquo;s disease (AD) and frontotemporal dementia (FTD) are common 
     </item>
     
     <item>
-      <title>Loss of brainstem white matter predicts onset and motor neuron symptoms in C9orf72 expansion carriers: a GENFI study</title>
-      <link>https://Agnes2.github.io/publications/2022-c9/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/publications/2022-c9/</guid>
-      <description>Agnès Pérez-Millan*, Sergi Borrego-Écija*, John C van Swieten, Lize Jiskoot, Fermin Moreno, Robert Laforce, Caroline Graff, Mario Masellis, Maria Carmela Tartaglia, James B Rowe, Barbara Borroni, Elizabeth Finger, Matthis Synofzik, Daniela Galimberti, Rik Vandenberghe, Alexandre de Mendonça, Chris R Butler, Alexander Gerhard, Simon Ducharme, Isabelle Le Ber, Isabel Santana, Florence Pasquier, Johannes Levin, Markus Otto, Sandro Sorbi, Pietro Tiraboschi, Harro Seelaar, Tobias Langheinrich, Jonathan D Rohrer, Roser Sala-Llonch, Raquel Sánchez-Valle &amp;amp; The Genetic FTD Initiative, GENFI (* equivalent contribution).</description>
-    </item>
-    
-    <item>
       <title>Classification between early onset Alzheimer´s disease and frontotemporal dementia using a single neuroimaging feature</title>
       <link>https://Agnes2.github.io/publications/2022-etaiml/</link>
       <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
@@ -85,6 +118,17 @@ Alzheimer&amp;rsquo;s disease (AD) and frontotemporal dementia (FTD) are common 
       <description>Agnès Pérez Millan, Laia Borrell, José Contador, Mircea Balasa, Albert Lladó, Raquel Sanchez-Valle, Roser Sala-Llonch. Emerging Topics in Artificial Intelligence (ETAI) 2022.
 ABSTRACT
 INTRODUCTION: Early Onset Alzheimer’s Disease (EOAD, &amp;lt;65 years) and Frontotemporal Dementia (FTD) are common forms of early-onset dementia. Therefore, there is a need to establish accurate diagnosis and to obtain markers for disease tracking. We combined supervised and unsupervised machine learning (ML) to discriminate between EOAD and FTD patients.</description>
+    </item>
+    
+    <item>
+      <title>Differential Gene Expression in Sporadic and Genetic Forms of Alzheimer’s Disease and Frontotemporal Dementia in Brain Tissue and Lymphoblastoid Cell Lines</title>
+      <link>https://Agnes2.github.io/publications/2022-gens/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2022-gens/</guid>
+      <description>Oscar Ramos-Campoy, Albert Lladó, Beatriz Bosch, Mireia Ferrer, Agnès Pérez-Millan, Miguel Vergara, Laura Molina-Porcel, Laura Fort-Aznar, Ricardo Gonzalo, Fermín Moreno-Izco, Guadalupe Fernandez-Villullas, Mircea Balasa, Raquel Sánchez-Valle, Anna Antonell. Molecular Neurobiology.
+ABSTRACT
+Sporadic early-onset Alzheimer’s disease (EOAD) and autosomal dominant Alzheimer’s disease (ADAD) provide the opportunity to investigate the physiopathological mechanisms in the absence of aging, present in late-onset forms. Frontotemporal dementia (FTD) causes early-onset dementia associated to tau or TDP43 protein deposits.</description>
     </item>
     
     <item>
@@ -100,17 +144,6 @@ PLACE: San Diego, Unitated States of America
 DATES: August 21 - 25, 2022
 ABSTRACT:
 INTRODUCTION: Early Onset Alzheimer’s Disease (EOAD) and Frontotemporal Dementia (FTD) are common forms of early-onset dementia. Therefore, there is a need to establish accurate diagnosis and to obtain markers for disease tracking.</description>
-    </item>
-    
-    <item>
-      <title>Differential Gene Expression in Sporadic and Genetic Forms of Alzheimer’s Disease and Frontotemporal Dementia in Brain Tissue and Lymphoblastoid Cell Lines</title>
-      <link>https://Agnes2.github.io/publications/2022-gens/</link>
-      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Agnes2.github.io/publications/2022-gens/</guid>
-      <description>Oscar Ramos-Campoy, Albert Lladó, Beatriz Bosch, Mireia Ferrer, Agnès Pérez-Millan, Miguel Vergara, Laura Molina-Porcel, Laura Fort-Aznar, Ricardo Gonzalo, Fermín Moreno-Izco, Guadalupe Fernandez-Villullas, Mircea Balasa, Raquel Sánchez-Valle, Anna Antonell. Molecular Neurobiology.
-ABSTRACT
-Sporadic early-onset Alzheimer’s disease (EOAD) and autosomal dominant Alzheimer’s disease (ADAD) provide the opportunity to investigate the physiopathological mechanisms in the absence of aging, present in late-onset forms. Frontotemporal dementia (FTD) causes early-onset dementia associated to tau or TDP43 protein deposits.</description>
     </item>
     
     <item>
