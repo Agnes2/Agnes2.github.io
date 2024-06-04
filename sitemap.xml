@@ -25,8 +25,44 @@
     <loc>https://Agnes2.github.io/projects/contributions/deploy-triggers/</loc>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://Agnes2.github.io/publications/2023-plasma/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
+    <loc>https://Agnes2.github.io/news/2024-clinicobert/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/news/2024-catalana/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/conferences/2024-catalana/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/conferences/2024-adad-rsv/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/conferences/2024-adad-apm/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/news/2024-adad/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/publications/2024-plasma/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/publications/2024-cth/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/publications/2024-gal3/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://Agnes2.github.io/conferences/2024-biostatistica/</loc>
+    <lastmod>2024-02-07T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/news/2023-phddefense/</loc>
@@ -35,14 +71,6 @@
   </url><url>
     <loc>https://Agnes2.github.io/news/2023-llibretv3/</loc>
     <lastmod>2023-12-07T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://Agnes2.github.io/publications/2023-gal3/</loc>
-    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://Agnes2.github.io/publications/2023-cth/</loc>
-    <lastmod>2023-11-27T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/news/2023-podcast5/</loc>
@@ -294,34 +322,40 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://Agnes2.github.io/tags/ad/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/cai/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/csf/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/ftd/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/lewy-body/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/plasma/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/gal3/</loc>
-    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/age-model/</loc>
-    <lastmod>2023-11-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Agnes2.github.io/tags/longitudinal-study/</loc>
-    <lastmod>2023-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/mri/</loc>
-    <lastmod>2023-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/plasma/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/brain-tissue/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/ftd/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/gal3/</loc>
+    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/lewy-body/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/age-model/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Agnes2.github.io/tags/longitudinal-study/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Agnes2.github.io/tags/machine-learning/</loc>
     <lastmod>2023-07-22T00:00:00+00:00</lastmod>
