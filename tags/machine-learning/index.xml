@@ -6,7 +6,18 @@
     <description>Recent content in Machine Learning on Agnès Pérez-Millan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond group classification: Probabilistic differential diagnosis of frontotemporal dementia and Alzheimer’s disease with MRI and CSF biomarkers</title>
+      <link>https://Agnes2.github.io/publications/2024-probabilities/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2024-probabilities/</guid>
+      <description>Agnès Pérez-Millan, Bertrand Thirion, Neus Falgàs, Sergi Borrego-Écija, Beatriz Bosch, Jordi Juncà-Parella, Adrià Tort-Merino, Jordi Sarto, Josep Maria Augé, Anna Antonell, Nuria Bargalló, Mircea Balasa, Albert Lladó, Raquel Sánchez-Valle, Roser Sala-Llonch. Neurobiology of Aging.
+ABSTRACT
+Neuroimaging and fluid biomarkers are used to differentiate frontotemporal dementia (FTD) from Alzheimer’s disease (AD). We implemented a machine learning algorithm that provides individual probabilistic scores based on magnetic resonance imaging (MRI) and cerebrospinal fluid (CSF) data.</description>
+    </item>
+    
     <item>
       <title>OHBM 2023 ANNUAL MEETING</title>
       <link>https://Agnes2.github.io/conferences/2023-ohbm/</link>

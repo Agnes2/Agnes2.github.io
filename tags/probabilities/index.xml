@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Probabilities on Agnès Pérez-Millan</title>
+    <link>https://Agnes2.github.io/tags/probabilities/</link>
+    <description>Recent content in Probabilities on Agnès Pérez-Millan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Agnes2.github.io/tags/probabilities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond group classification: Probabilistic differential diagnosis of frontotemporal dementia and Alzheimer’s disease with MRI and CSF biomarkers</title>
+      <link>https://Agnes2.github.io/publications/2024-probabilities/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://Agnes2.github.io/publications/2024-probabilities/</guid>
+      <description>Agnès Pérez-Millan, Bertrand Thirion, Neus Falgàs, Sergi Borrego-Écija, Beatriz Bosch, Jordi Juncà-Parella, Adrià Tort-Merino, Jordi Sarto, Josep Maria Augé, Anna Antonell, Nuria Bargalló, Mircea Balasa, Albert Lladó, Raquel Sánchez-Valle, Roser Sala-Llonch. Neurobiology of Aging.
+ABSTRACT
+Neuroimaging and fluid biomarkers are used to differentiate frontotemporal dementia (FTD) from Alzheimer’s disease (AD). We implemented a machine learning algorithm that provides individual probabilistic scores based on magnetic resonance imaging (MRI) and cerebrospinal fluid (CSF) data.</description>
+    </item>
+    
+  </channel>
+</rss>
